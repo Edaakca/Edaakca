@@ -57,12 +57,13 @@
 ## 🔗 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/eda-akça-a34402197/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="40" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:ednr6046@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="40" alt="Email"/>
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" height="40" alt="Email"/>
   </a>
 </p>
+
 
 
