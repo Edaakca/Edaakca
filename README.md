@@ -3,21 +3,21 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 📱 Passionate about Android Development using Kotlin and actively improving my skills.  
 🔐 Exploring Mobile Security, system integrity, rootkit detection, and anomaly analysis while learning C / C++, NDK, JNI, and TensorFlow Lite.  
 🎓 Interested in combining mobile development with cybersecurity to build secure, scalable applications.  
 
 ---
 
-## 💼 Experience
+##  Experience
 - **[C-Prot Cyber Security Technologies](https://www.c-prot.com/tr)** — Android Developer Intern  
 - **[eBilge Technology Inc.](https://www.linkedin.com/company/ebilge/)** — Android Developer Intern  
 - **[Helikanon Software & Information Technologies](https://www.helikanon.com/)** — Android Developer Intern  
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <b>📱 Mobile Development</b><br>
@@ -25,17 +25,17 @@
 </p>
 
 <p align="center">
-  <b>🔐 Mobile Security & Native Development</b><br>
-  <img src="https://skillicons.dev/icons?i=linux,cpp,c,raspberrypi,python" />
+  <b> Mobile Security & Native Development</b><br>
+  <img src="https://skillicons.dev/icons?i=linux,cpp,c,python" />
 </p>
 
 <p align="center">
-  <b>🤖 Machine Learning / AI</b><br>
+  <b> Machine Learning / AI</b><br>
   <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
 <p align="center">
-  <b>💻 Programming Languages</b><br>
+  <b> Programming Languages</b><br>
   <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,c,cs,python" />
 </p>
 
@@ -46,9 +46,8 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Edaakca&show_icons=true&theme=radical&count_private=true&show_owner=true" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Edaakca&theme=radical" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edaakca&layout=compact&theme=radical" />
 </p>
