@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Eda AKÇA 👋</h1>
-<h3 align="center">Android Developer • Mobile Security Enthusiast • Kotlin & Native Development</h3>
+<h1 >Hi, I'm Eda AKÇA 👋</h1>
+<h3 >Android Developer • Mobile Security Enthusiast • Kotlin & Native Development</h3>
 
 ---
 
-## 🚀 About Me
+##  About Me
 📱 Passionate about Android Development using Kotlin and actively improving my skills.  
 🔐 Continuously learning and exploring new technologies in mobile development and security.  
 🎓 Motivated to grow professionally and build secure, scalable applications.
