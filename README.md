@@ -3,7 +3,7 @@
 
 ---
 
-##About Me
+## About Me
 
 📱 Passionate about Android Development using Kotlin and actively improving my skills.
 🔐 Exploring Mobile Security, system integrity, rootkit detection, and anomaly analysis through hands-on projects.
