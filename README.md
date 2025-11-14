@@ -3,12 +3,13 @@
 
 ---
 
-## 🚀 About Me
-- 📱 Specialized in **Android Development** using Kotlin.  
-- 🔐 Hands-on experience in **Mobile Security**, system integrity, rootkit detection, and anomaly analysis.  
-- ⚙ Skilled in native development using **C / C++ / NDK / JNI**, TensorFlow Lite, and low-level monitoring tools.  
-- 🎓 Strong interest in combining mobile development with cybersecurity to build secure, scalable, and intelligent applications.  
-- 📬 Email: **ednr6046@gmail.com**
+##About Me
+
+📱 Passionate about Android Development using Kotlin and actively improving my skills.
+🔐 Exploring Mobile Security, system integrity, rootkit detection, and anomaly analysis through hands-on projects.
+⚙ Learning C / C++ / NDK / JNI, TensorFlow Lite, and low-level monitoring tools for native development.
+🎓 Interested in combining mobile development with cybersecurity to create secure, scalable, and intelligent applications.
+📬 Email: ednr6046@gmail.com
 
 ---
 
