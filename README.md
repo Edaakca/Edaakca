@@ -1,5 +1,5 @@
-<h1 align="center">✨ Hi, I'm Eda AKÇA 👋</h1>
-<h3 align="center">Android Developer • Mobile Security • Kotlin & Native Development</h3>
+<h1 align>✨ Hi, I'm Eda AKÇA 👋</h1>
+<h3 align>Android Developer • Mobile Security • Kotlin & Native Development</h3>
 
 ---
 
@@ -169,7 +169,6 @@ Hydration tracking app with notifications and a clean minimal UI.
 ---
 
 ## 🔗 Connect With Me
-<a href="https://github.com/Edaakca">GitHub</a> • 
 <a href="https://www.linkedin.com/in/eda-akça-a34402197/">LinkedIn</a> • 
 <a href="mailto:ednr6046@gmail.com">Mail</a>
 
