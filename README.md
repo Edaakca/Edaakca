@@ -3,10 +3,10 @@
 
 ---
 
-##  About Me
+## 🚀 About Me
 📱 Passionate about Android Development using Kotlin and actively improving my skills.  
-🔐 Exploring Mobile Security, system integrity, rootkit detection, and anomaly analysis while learning C / C++, NDK, JNI, and TensorFlow Lite.  
-🎓 Interested in combining mobile development with cybersecurity to build secure, scalable applications.  
+🔐 Continuously learning and exploring new technologies in mobile development and security.  
+🎓 Motivated to grow professionally and build secure, scalable applications.
 
 ---
 
