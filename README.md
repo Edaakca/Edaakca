@@ -17,25 +17,25 @@
 
 ---
 
-##  Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
   <b>📱 Mobile Development</b><br>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,sqlite" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,sqlite,flutter" />
 </p>
 
 <p align="center">
-  <b> Mobile Security & Native Development</b><br>
+  <b>🔐 Mobile Security & Native Development</b><br>
   <img src="https://skillicons.dev/icons?i=linux,cpp,c,python" />
 </p>
 
 <p align="center">
-  <b> Machine Learning / AI</b><br>
+  <b>🤖 Machine Learning / AI</b><br>
   <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
 <p align="center">
-  <b> Programming Languages</b><br>
+  <b>💻 Programming Languages</b><br>
   <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,c,cs,python" />
 </p>
 
