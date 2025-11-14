@@ -15,33 +15,32 @@
 - **[eBilge Technology Inc.](https://www.linkedin.com/company/ebilge/)** — Android Developer Intern  
 - **[Helikanon Software & Information Technologies](https://www.helikanon.com/)** — Android Developer Intern  
 
-  
 ---
 
 ## 🛠 Tech Stack
 
 ### 📱 Mobile Development
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,sqlite" />
 </p>
 
 ### 🔐 Mobile Security & Native Development
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,cpp,c,raspberrypi,python" />
 </p>
 
 ### 🤖 Machine Learning / AI
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
 ### 💻 Programming Languages
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,c,cs,python" />
 </p>
 
 ### 🛠 Tools & Workflow
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,figma" />
 </p>
 
