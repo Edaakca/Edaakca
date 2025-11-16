@@ -1,5 +1,5 @@
 <h1 >Hi, I'm Eda AKÇA 👋</h1>
-<h3 >Android Developer • Mobile Security Enthusiast • Kotlin & Native Development</h3>
+<h3 >Android Developer • Mobile Security • Kotlin & Native Development</h3>
 
 ---
 
@@ -41,7 +41,7 @@
 
 <p align="center">
   <b>🛠 Tools & Workflow</b><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
 </p>
 
 ---
