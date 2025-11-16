@@ -4,9 +4,10 @@
 ---
 
 ##  About Me
-📱 Passionate about Android Development using Kotlin and actively improving my skills.  
+📱 Passionate about Android development using Kotlin and actively improving my skills.  
 🔐 Continuously learning and exploring new technologies in mobile development and security.  
-🎓 Motivated to grow professionally and build secure, scalable applications.
+🤖 Currently expanding my knowledge in Artificial Intelligence through hands-on, practical training.  
+🎓 Motivated to grow professionally and build secure, scalable applications.  
 
 ---
 
@@ -20,27 +21,27 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <b>📱 Mobile Development</b><br>
+  <b> Mobile Development</b><br>
   <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,sqlite,flutter" />
 </p>
 
 <p align="center">
-  <b>🔐 Mobile Security & Native Development</b><br>
+  <b> Mobile Security & Native Development</b><br>
   <img src="https://skillicons.dev/icons?i=linux,cpp,c,python" />
 </p>
 
 <p align="center">
-  <b>🤖 Machine Learning / AI</b><br>
+  <b> Machine Learning / AI</b><br>
   <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
 <p align="center">
-  <b>💻 Programming Languages</b><br>
+  <b> Programming Languages</b><br>
   <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,c,cs,python" />
 </p>
 
 <p align="center">
-  <b>🛠 Tools & Workflow</b><br>
+  <b> Tools & Workflow</b><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
 </p>
 
