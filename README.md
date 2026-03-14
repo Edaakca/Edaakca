@@ -1,61 +1,27 @@
-<h1 >Hi, I'm Eda AKÇA 👋</h1>
-<h3 >Android Developer • Mobile Security • Kotlin & Native Development</h3>
+<h1>Hi, I'm Eda AKÇA 👋</h1>
+<h3>Android Developer • Kotlin • Mobile Development</h3>
 
 ---
 
-##  About Me
-📱 Passionate about Android development using Kotlin and actively improving my skills.  
-🔐 Continuously learning and exploring new technologies in mobile development and security.  
-🤖 Currently expanding my knowledge in Artificial Intelligence through hands-on, practical training.  
-🎓 Motivated to grow professionally and build secure, scalable applications.  
+## About Me
+
+📱 Passionate about Android development using Kotlin and actively improving my skills.
+🔐 Continuously learning and exploring new technologies in mobile development and security.
+🤖 Currently expanding my knowledge in Artificial Intelligence through hands-on practical training.
+🎓 Motivated to grow professionally and build secure, scalable applications.
 
 ---
 
-##  Experience
-- **[C-Prot Cyber Security Technologies](https://www.c-prot.com/tr)** — Android Developer Intern  
-- **[eBilge Technology Inc.](https://www.linkedin.com/company/ebilge/)** — Android Developer Intern  
-- **[Helikanon Software & Information Technologies](https://www.helikanon.com/)** — Android Developer Intern  
+## Experience
+
+* **C-Prot Cyber Security Technologies** — Android Developer Intern
+* **eBilge Technology Inc.** — Android Developer Intern
+* **Helikanon Software & Information Technologies** — Android Developer Intern
 
 ---
 
-## 🛠 Tech Stack
+## Connect With Me
 
-<p align="center">
-  <b> Mobile Development</b><br>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,sqlite,flutter" />
-</p>
-
-<p align="center">
-  <b> Mobile Security & Native Development</b><br>
-  <img src="https://skillicons.dev/icons?i=linux,cpp,c,python" />
-</p>
-
-<p align="center">
-  <b> Machine Learning / AI</b><br>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
-
-<p align="center">
-  <b> Programming Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,c,cs,python" />
-</p>
-
-<p align="center">
-  <b> Tools & Workflow</b><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
-</p>
-
----
-
-##  GitHub Stats
-<p align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Edaakca&theme=radical" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edaakca&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🔗 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/eda-akça-a34402197/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" height="40" alt="LinkedIn"/>
@@ -65,6 +31,7 @@
     <img src="https://img.icons8.com/color/48/000000/gmail.png" height="40" alt="Email"/>
   </a>
 </p>
+
 
 
 
